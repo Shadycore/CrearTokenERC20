@@ -1,2 +1,2 @@
 # CrearTokenERC20
- Crear tokens de manera simple en red Ethereum
+Contrato para crear un token ERC20 en la red Ethereum haciendo uso de OpenZeppelin
